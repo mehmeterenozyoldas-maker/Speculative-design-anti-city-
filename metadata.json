@@ -1,0 +1,7 @@
+{
+  "name": "Civic Restraints: Discursive Urbanism Visualizer",
+  "description": "An avant-garde spatial WebGL discursive design environment interrogating hostile smart city architecture, algorithmic surveillance, and spatial exclusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
